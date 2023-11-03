@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artur Molenda.
 - 👀 I’m interested in frontend development, beer brewing, cycling and heavymetal music.
-- 🌱 I’m currently learning React and next I will learning Typescript.
+- 🌱 I’m currently learning React and then Typescript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: artmol@op.pl
 
